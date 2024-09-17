@@ -1,0 +1,18 @@
+1er modif du fichierA !!!
+
+Exercice 2 : utilisation d’un dépôt distant
+1. Commencez par créez un compte sur Github (github.com)
+Vous pouvez utiliser un compte existant. Gardez cependant à l’esprit que ce compte vous suivra
+dans de nombreux modules pour la suite de votre cursus à CPE Lyon.
+Attention : choisissez un mot de passe mémorisable car vous devrez le retaper par la suite !
+2. Créez ensuite sur GitHub un nouveau dépôt public appelé exo2 ; avant de valider, cochez la
+case :
+Si vous avez oublié de cocher cette case, ce n’est pas grave : vous pouvez ajouter
+manuellement, par exemple en cliquant sur
+3. Copiez l’URL de votre dépôt.
+4. Revenez dans le Terminal, et replacez-vous dans le dossier tp-git. Puis tapez la commande
+git clone votreURL pour créer une copie locale de votre projet exo2. Déplacez-vous dans
+le dossier exo2 pour vérifier notamment que le fichier README est présent.
+5. Créez (sur votre machine) un nouveau fichier nommé fichierA. Complétez-le de quelques
+lignes, puis commitez-le vers votre dépôt local.
+6. Vous allez à présent envoyer vos modifications vers le dépôt distant, à l’aide de la comm
